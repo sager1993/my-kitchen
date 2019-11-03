@@ -6,9 +6,9 @@
 
     - Ingriedients List
 
-          - Ingriedient element
+      - Ingriedient element
 
-              - Ingriedients Search button
+        - Ingriedients Search button
 
       - Api search results (Recipe cards)
 
