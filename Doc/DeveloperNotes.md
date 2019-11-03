@@ -4,7 +4,7 @@
 
 1. Make user strories. Done
 2. Make Wireframes. Done
-3. List the components for the ingridients page.
+3. List the components for the ingridients page. Done
 4. Build the ingriedients page container.
 5. Build the ingriedients list component.
 6. Build the ingriedient element component.

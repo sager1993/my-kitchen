@@ -1,17 +1,25 @@
 # Components list
 
-## App
+- App
 
-### Ingredients Page
+  - Ingredients Page
 
-#### Ingriedients List
+    - Ingriedients List
 
-##### Ingriedient element
+          - Ingriedient element
 
-##### Ingriedients Search button
+              - Ingriedients Search button
 
-#### Api search results (Recipe cards)
+      - Api search results (Recipe cards)
 
-##### Recipe card
+        - Recipe card
 
-###### Save Recipe Button
+          - Save Recipe Button
+
+  - Recipes Page
+
+    - Saved Recipes (list)
+
+      - Recipe Card
+
+        - Delete Recipe button
