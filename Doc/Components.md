@@ -10,11 +10,11 @@
 
         - Ingriedients Search button
 
-      - Api search results (Recipe cards)
+    - Api search results (Recipe cards)
 
-        - Recipe card
+      - Recipe card
 
-          - Save Recipe Button
+        - Save Recipe Button
 
   - Recipes Page
 
